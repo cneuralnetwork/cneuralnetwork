@@ -1,11 +1,11 @@
-## Hi!
 
-### I am just a guy who is interested in ML and loves to code casually every day.
 
-I am currently working on ~
+### just a guy interested in ml/dl and loves to code casually every day.
 
-- 🌱 Neugrad : An autograd machine with deep learning layers
-- 🌱 Solving ML Papers : An Initiative where I solve 1 research paper everyday
+i am currently working on ~
+
+- 🌱 neugrad : an autograd machine with deep learning layers
+- 🌱 solving ml papers : an initiative where i solve 1 research paper everyday
 
 <!--
 **cneuralnetwork/cneuralnetwork** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
