@@ -4,8 +4,8 @@
 
 i am currently working on ~
 
-🌱 neugrad : an autograd machine with deep learning layers
-🌱 solving ml papers : an initiative where i solve 1 research paper everyday
+- 🌱 neugrad : an autograd machine with deep learning layers
+- 🌱 solving ml papers : an initiative where i solve 1 research paper everyday
 
 <!--
 **cneuralnetwork/cneuralnetwork** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
