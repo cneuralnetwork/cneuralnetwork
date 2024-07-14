@@ -1,7 +1,9 @@
-<h1 align="center">Hi 👋, I'm NeuralNets</h1>
-<h3 align="center">just a guy interested in ml/dl and loves to code casually every day.</h3>
+just a guy interested in ml/dl and loves to code casually every day.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=cneuralnetwork&label=Profile%20views&color=0e75b6&style=flat" alt="cneuralnetwork" /> </p>
+### i am currently working on ~
+
+- 🌱 neugrad : an autograd machine with deep learning layers
+- 🌱 solving ml papers : an initiative where i solve 1 research paper everyday
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
