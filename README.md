@@ -7,5 +7,4 @@ i am currently working on ~
 
 my website - [click here](https://cneuralnets.netlify.app/)
 
-![cneuralnetwork's Stats](https://github-readme-stats.vercel.app/api?username=cneuralnetwork&theme=vue-dark&show_icons=true&hide_border=false&count_private=true)
-![cneuralnetwork's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cneuralnetwork&theme=vue-dark&show_icons=true&hide_border=false&layout=compact)
+
